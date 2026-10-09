@@ -1,0 +1,949 @@
+{
+  "redirects": [
+    {
+      "source": "/divorce-lawyer-san-diego-ca",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/divorce-lawyer-san-diego-ca/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/family-law-lawyer",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/family-law-lawyer/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/poway-ca-divorce-lawyer",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/poway-ca-divorce-lawyer/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/poway-ca-family-law-lawyer",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/poway-ca-family-law-lawyer/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/divorce-attorney-san-diego",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/divorce-attorney-san-diego/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/miramar-ca-divorce-attorney",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/miramar-ca-divorce-attorney/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/family-law-san-diego",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/family-law-san-diego/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/child-custody-attorney-del-mar-ca",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/child-custody-attorney-del-mar-ca/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/family-attorney-rancho-santa-fe-ca",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/family-attorney-rancho-santa-fe-ca/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/rancho-bernardo-domestic-violence-lawyer",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/rancho-bernardo-domestic-violence-lawyer/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/marriage-attorney-el-cajon-ca",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/marriage-attorney-el-cajon-ca/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/domestic-violence-attorney-del-mar",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/domestic-violence-attorney-del-mar/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/family-law-firm-rancho-santa-fe-ca",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/family-law-firm-rancho-santa-fe-ca/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/san-diego-ca-family-law-firm",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/san-diego-ca-family-law-firm/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/family-divorce-lawyer-san-diego-ca",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/family-divorce-lawyer-san-diego-ca/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/poway-family-divorce-attorney",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/poway-family-divorce-attorney/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/family-lawyer-scripps-carmel-valley-ca",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/family-lawyer-scripps-carmel-valley-ca/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/child-custody-lawyer-carmel-valley-ca",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/child-custody-lawyer-carmel-valley-ca/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/custody-lawyer-rancho-bernardo-ca",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/custody-lawyer-rancho-bernardo-ca/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/mediation-lawyer-san-diego-ca",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/mediation-lawyer-san-diego-ca/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/child-support-attorney-poway-ca",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/child-support-attorney-poway-ca/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/child-support-attorney-san-diego-ca",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/child-support-attorney-san-diego-ca/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/family-attorney-mira-mesa-ca",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/family-attorney-mira-mesa-ca/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/guardianship-lawyer-poway-ca",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/guardianship-lawyer-poway-ca/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/fathers-rights-attorney-rancho-bernardo-ca",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/fathers-rights-attorney-rancho-bernardo-ca/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/family-attorney-poway-ca",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/family-attorney-poway-ca/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/family-law-lawyer-poway-ca",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/family-law-lawyer-poway-ca/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/guardianship-lawyer-san-diego-ca",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/guardianship-lawyer-san-diego-ca/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/marriage-lawyer-san-diego-ca",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/marriage-lawyer-san-diego-ca/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/mediation-lawyer-la-jolla-ca",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/mediation-lawyer-la-jolla-ca/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/paternity-lawyer-san-diego-ca",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/paternity-lawyer-san-diego-ca/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/fathers-rights-attorney-poway-ca",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/fathers-rights-attorney-poway-ca/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/divorce-mediation-attorney-poway-ca",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/divorce-mediation-attorney-poway-ca/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/divorce-mediation-lawyer-mira-mesa-ca",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/divorce-mediation-lawyer-mira-mesa-ca/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/paternity-lawyer-mira-mesa-ca",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/paternity-lawyer-mira-mesa-ca/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/marriage-lawyer-poway-ca",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/marriage-lawyer-poway-ca/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/poway-ca-custody-lawyer",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/poway-ca-custody-lawyer/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/family-law-lawyer-carmel-valley-ca",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/family-law-lawyer-carmel-valley-ca/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/child-custody-lawyer-poway-ca",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/child-custody-lawyer-poway-ca/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/family-lawyer-poway-ca",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/family-lawyer-poway-ca/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/mira-mar-ca-family-divorce-attorney",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/mira-mar-ca-family-divorce-attorney/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/family-law-firm-poway-ca",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/family-law-firm-poway-ca/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/domestic-violence-attorney-poway-ca",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/domestic-violence-attorney-poway-ca/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/marriage-attorney-poway-ca",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/marriage-attorney-poway-ca/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/del-mar-ca-family-attorney",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/del-mar-ca-family-attorney/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/child-support-attorney-el-cajon",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/child-support-attorney-el-cajon/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/national-city-child-support-attorney",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/national-city-child-support-attorney/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/del-mar-child-custody-attorney",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/del-mar-child-custody-attorney/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/child-custody-attorney-poway",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/child-custody-attorney-poway/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/child-custody-lawyer-mira-mesa",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/child-custody-lawyer-mira-mesa/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/chula-vista-child-custody-lawyer",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/chula-vista-child-custody-lawyer/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/spousal-support-attorney-poway",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/spousal-support-attorney-poway/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/rancho-bernardo-family-attorney",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/rancho-bernardo-family-attorney/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/family-court-lawyer-santee",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/family-court-lawyer-santee/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/separation-divorce-san-diego",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/separation-divorce-san-diego/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/mediation-family-divorce-san-diego",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/mediation-family-divorce-san-diego/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/collaborative-divorce-san-diego",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/collaborative-divorce-san-diego/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/ethical-divorce-san-diego",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/ethical-divorce-san-diego/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/alimony-attorney-el-cajon",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/alimony-attorney-el-cajon/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/alimony-attorney-la-jolla",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/alimony-attorney-la-jolla/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/escondido-alimony-lawyer",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/escondido-alimony-lawyer/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/paternity-attorney-mira-mesa",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/paternity-attorney-mira-mesa/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/carlsbad-paternity-lawyer",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/carlsbad-paternity-lawyer/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/father-rights-divorce",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/father-rights-divorce/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/family-attorney-la-jolla-ca",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/family-attorney-la-jolla-ca/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/family-lawyer-carmel-valley",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/family-lawyer-carmel-valley/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/del-mar-spousal-support-lawyer",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/del-mar-spousal-support-lawyer/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/high-net-worth-divorce-san-diego",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/high-net-worth-divorce-san-diego/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/california/bostonia-family-law-attorney",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/california/bostonia-family-law-attorney/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/california/carlsbad-family-law-attorney",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/california/carlsbad-family-law-attorney/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/california/chula-vista-family-law-attorney",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/california/chula-vista-family-law-attorney/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/california/del-mar-family-law-attorney",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/california/del-mar-family-law-attorney/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/california/el-cajon-family-law-attorney",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/california/el-cajon-family-law-attorney/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/california/encinitas-family-law-attorney",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/california/encinitas-family-law-attorney/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/california/escondido-family-law-attorney",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/california/escondido-family-law-attorney/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/california/eucalyptus-hills-family-law-attorney",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/california/eucalyptus-hills-family-law-attorney/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/california/la-mesa-family-law-attorney",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/california/la-mesa-family-law-attorney/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/california/lakeside-family-law-attorney",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/california/lakeside-family-law-attorney/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/california/national-city-family-law-attorney",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/california/national-city-family-law-attorney/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/california/oceanside-family-law-attorney",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/california/oceanside-family-law-attorney/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/california/poway-family-law-attorney",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/california/poway-family-law-attorney/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/california/san-clemente-family-law-attorney",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/california/san-clemente-family-law-attorney/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/california/san-diego-family-law-attorney",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/california/san-diego-family-law-attorney/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/california/san-marcos-family-law-attorney",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/california/san-marcos-family-law-attorney/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/california/santee-family-law-attorney",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/california/santee-family-law-attorney/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/california/solana-beach-family-law-attorney",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/california/solana-beach-family-law-attorney/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/california/temacula-family-law-attorney",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/california/temacula-family-law-attorney/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/california/vista-family-law-attorney",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/california/vista-family-law-attorney/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/california/winter-gardens-family-law-attorney",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/california/winter-gardens-family-law-attorney/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/california/spring-valley-family-law-attorney",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/california/spring-valley-family-law-attorney/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/site-map.htm",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/california",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/california/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/divorce-mediation-la-mesa-ca",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/divorce-mediation-la-mesa-ca/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/videos",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/videos/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/child-support-oceanside-243510bc-2",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/child-support-oceanside-243510bc-2/",
+      "destination": "/",
+      "permanent": true
+    }
+  ]
+}
