@@ -944,6 +944,11 @@
       "source": "/child-support-oceanside-243510bc-2/",
       "destination": "/",
       "permanent": true
+    },
+    {
+      "source": "/admin",
+      "destination": "https://vision.leadrai.com/site-admin/site-8d82b51c900e2febb6110e4e66d8e29cf41b",
+      "permanent": false
     }
   ]
 }
